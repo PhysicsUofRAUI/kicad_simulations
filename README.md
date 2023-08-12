@@ -16,3 +16,4 @@ Feel free to contribute your example circuits by submitting a pull request. Foll
 | Circuit | Location | Video |
 | ------- | -------- | ----- |
 | Inverting OpAmp | op_amps/ideal_inverter | |
+| Non-inverting OpAmp | op_amps/non-inverter | |
